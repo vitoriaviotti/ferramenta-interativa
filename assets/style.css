@@ -1,11 +1,11 @@
 :root {
-    --text-color: #DBE4EF;
-    --card-front-color: hsl(330, 2%, 75%);
+    --text-color: #000000;
+    --card-front-color: #c1bebf;
     --card-back-color: #d9d7da;
     }
 
 body {
-    background: #DBE4EF ;
+    background: #c1bebf ;
     
 }
 
