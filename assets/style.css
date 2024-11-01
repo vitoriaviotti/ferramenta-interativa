@@ -1,5 +1,5 @@
 :root {
-    --text-color: #DBE4EF;
+    --text-color: hsl(0, 0%, 100%);
     --card-front-color: hsl(178, 72%, 68%);
     --card-back-color: hsl(186, 73%, 32%);
     }
