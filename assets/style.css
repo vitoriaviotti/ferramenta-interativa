@@ -1,6 +1,6 @@
 :root {
     --text-color: hsl(0, 0%, 100%);
-    --card-front-color: hsl(178, 72%, 68%);
+    --card-front-color: hwb(179 64% 20%);
     --card-back-color: hsl(186, 73%, 32%);
     }
 
